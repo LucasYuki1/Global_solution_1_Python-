@@ -18,3 +18,5 @@
 7.87
 8.42
 7.05
+
+arquivo de exemplo dos valores gravados
