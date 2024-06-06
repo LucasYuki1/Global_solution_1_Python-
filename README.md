@@ -19,7 +19,7 @@
 
 ## Descrição :memo:
 
-Olá! Nós, da equipe "nome aqui", faremos uma breve descrição do nosso projeto. Ele consiste em criar um gráfico baseado em dados simulados de pH. O projeto atualmente gera gráficos internos em um caminho especificado do computador, realiza as leituras e, através de um menu de interação com o usuário, é possível:
+Olá! Nós, da equipe "BluepH", faremos uma breve descrição do nosso projeto. Ele consiste em criar um gráfico baseado em dados simulados de pH. O projeto atualmente gera gráficos internos em um caminho especificado do computador, realiza as leituras e, através de um menu de interação com o usuário, é possível:
 
 - Gerar dados fictícios
 - Gerar um gráfico
