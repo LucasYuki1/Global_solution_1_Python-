@@ -1,4 +1,4 @@
-# Global_solution_1_Python
+# Global solution 1 Python
 
 ## Índice
 
