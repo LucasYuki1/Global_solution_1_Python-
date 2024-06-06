@@ -1,3 +1,7 @@
+# Leonardo Rocha Scarpitta RM: 555460
+# Lucas Henzo Ide Yuki RM: 554865
+# Nicolas Haubricht Heilfellner RM: 556259
+
 import matplotlib.pyplot as plt
 import os
 import random
